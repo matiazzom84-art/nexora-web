@@ -2,6 +2,8 @@ import { navLinks } from '../data/navigation'
 import { whatsappLink } from '../data/site'
 import Logo from './Logo'
 
+const currentYear = new Date().getFullYear()
+
 export default function Footer() {
   return (
     <footer className="border-t border-white/10 px-6 py-12">
@@ -44,7 +46,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 border-t border-white/10 pt-6 text-sm text-slate-500">
-          © {new Date().getFullYear()} NEXORA Digital Studio. Mendoza, Argentina.
+          © {currentYear} NEXORA Digital Studio. Mendoza, Argentina.
         </div>
       </div>
     </footer>

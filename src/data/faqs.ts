@@ -25,8 +25,8 @@ export const faqs = [
       'Sí. Cada sitio se diseña pensando primero en el celular y se prueba en celular y computadora antes de entregarlo.',
   },
   {
-    question: '¿Trabajan con negocios de fuera de Mendoza?',
+    question: '¿Trabajás con negocios de fuera de Mendoza?',
     answer:
-      'Sí. Empezamos en Mendoza, pero todo el proceso puede hacerse a distancia por WhatsApp, así que puedo trabajar con negocios de toda Argentina.',
+      'Sí. Empecé en Mendoza, pero todo el proceso puede hacerse a distancia por WhatsApp, así que puedo trabajar con negocios de toda Argentina.',
   },
 ]

@@ -17,7 +17,7 @@ export const benefits = [
     icon: Zap,
     title: 'Rápidas y cómodas en el celular',
     description:
-      'Usamos tecnología moderna para que tu web cargue rápido y se vea bien en cualquier pantalla.',
+      'Uso tecnología moderna para que tu web cargue rápido y se vea bien en cualquier pantalla.',
   },
   {
     icon: Handshake,
